@@ -40,3 +40,21 @@ Learn More
 You can learn more in the [ Create React App documentation](https://create-react-app.dev/docs/getting-started/).
 
 To learn React, check out the [React documentation](https://react.dev/).
+
+
+
+# ScreenShots
+### Registration page
+![Register Page](https://github.com/ChethanKodenkiri/Keeper_App/assets/92871656/2148e48e-3e00-4417-ae94-82ed73263a3c)
+![Registration Successful Message](https://github.com/ChethanKodenkiri/Keeper_App/assets/92871656/46276a84-ea24-4f0b-b878-92da9ec3a67c)
+
+### SignUp Page
+![Sign Up page](https://github.com/ChethanKodenkiri/Keeper_App/assets/92871656/7d950a51-ecac-45f3-9728-16dc45ebc6c6)
+
+### About Page
+![About Page](https://github.com/ChethanKodenkiri/Keeper_App/assets/92871656/82e3ca06-038b-4a7c-8ce6-2881aceb7d11)
+
+### LogOut
+![Logout message](https://github.com/ChethanKodenkiri/Keeper_App/assets/92871656/c7fe8715-288d-4b55-a1c2-8827985ee58f)
+
+
